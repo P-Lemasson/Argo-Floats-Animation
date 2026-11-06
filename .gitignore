@@ -1,0 +1,4 @@
+# Index files are downloaded by the script (320 MB, over the GitHub limit of 100 MB per file)
+argo_index/
+
+__pycache__/
