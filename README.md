@@ -55,7 +55,7 @@ a B-file, including those measuring only oxygen.
 
 ## Data
 
-The animation uses Argo data. Please acknowledge Argo when you show it:
+The animation uses Argo data.
 
 > These data were collected and made freely available by the International Argo
 > Program and the national programs that contribute to it (https://argo.ucsd.edu,
