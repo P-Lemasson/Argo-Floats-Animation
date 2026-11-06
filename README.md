@@ -63,7 +63,8 @@ The animation uses Argo data.
 > System.
 
 Argo (2000). Argo float data and metadata from Global Data Assembly Centre (Argo
-GDAC). SEANOE. https://doi.org/10.17882/42182
+GDAC). 
+SEANOE. https://doi.org/10.17882/42182
 
 ## License
 
